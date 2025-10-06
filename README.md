@@ -1,38 +1,40 @@
 # 👋 Hi, I'm Anwar Sadek  
 
 🌍 From **Cox's Bazar, Bangladesh**  
-🎓 Currently studying **Diploma in Computer Science & Technology (CST)**  
-💡 Learning through **NSDA Web Design & Development Level 3**  
-🌱 Focused on becoming a **Frontend Web Developer**
+🎓 19-year-old **Diploma Student in Computer Science & Technology (CST)**  
+📘 Currently enrolled in **NSDA Web Design & Development Level 3**  
+💡 Learning to become a **Full Stack Web Developer**
 
 ---
 
 ### 💻 About Me
-I'm just trying out new things and exploring the world of web development.  
-I started with **HTML** and **CSS**, and now I’m learning **JavaScript** to bring websites to life!  
-I love building clean, simple, and creative designs — and improving a little bit every day.  
+I'm a passionate learner who’s exploring the world of web development step by step.  
+I’ve already gained solid basics in **HTML** and **CSS**, and I’m now learning **JavaScript** to build interactive and dynamic websites.  
+
+Right now, I’m focusing on **Frontend Development**, but I plan to learn **Backend technologies** soon so I can grow into a **Full Stack Developer** capable of building complete web applications from start to finish.  
 
 ---
 
 ### 🧠 Currently Learning
 - HTML5 & CSS3 (Completed Basics ✅)  
-- JavaScript (Starting Now 🚀)  
-- Responsive Web Design & Layouts  
+- JavaScript (In Progress 🚀)  
+- Responsive Web Design  
+- Fundamentals of Frontend Development  
+
+---
+
+### 🎯 Future Goals
+- Learn **Backend Development** (Node.js, Express.js, Databases)  
+- Become a skilled **Full Stack Web Developer**  
+- Build and host my own complete projects  
+- Create modern, responsive, and user-friendly websites  
 
 ---
 
 ### 🛠️ Tech Stack (So Far)
 - **Frontend:** HTML, CSS  
 - **Tools:** VS Code, Git, GitHub, Spck Editor  
-- **Learning:** JavaScript, Bootstrap  
-
----
-
-### 📚 My Goals
-- Finish my **NSDA Level 3 Certification** successfully  
-- Build real projects using HTML, CSS & JS  
-- Learn modern web tools (Bootstrap, GSAP, React)  
-- Create a professional portfolio website  
+- **Learning Next:** JavaScript, Bootstrap, Node.js  
 
 ---
 
