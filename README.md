@@ -7,4 +7,4 @@
 ---
 
 > 🗓️ *“Every great developer was once a beginner who never gave up.”*  
-> — Anwar Sadek ✨
+> Anwar Sadek ✨
